@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SzymczakKamil
 - 👀 I’m interested in Javascript
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Angular
 
 
 <!---
